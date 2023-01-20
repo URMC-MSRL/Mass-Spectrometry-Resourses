@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon/Close</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M18.341766,16.0001366 L24.0148197,10.3266887 C24.6615601,9.67995733 24.6615601,8.6315617 24.0148197,7.98530339 C23.3680793,7.33809887 22.3191959,7.33809887 21.6734018,7.98530339 L16.0003481,13.6587512 L10.3268214,7.98530339 C9.67960783,7.33809887 8.63214384,7.33809887 7.98493031,7.98530339 C7.3381899,8.6315617 7.3381899,9.68043043 7.98493031,10.3266887 L13.6589302,16.0001366 L7.98540342,21.6731113 C7.33913611,22.3198427 7.33913611,23.3682383 7.98540342,24.0144966 C8.30948329,24.3380989 8.73291612,24.4999 9.15682205,24.4999 C9.58025488,24.4999 10.0046339,24.3380989 10.3277676,24.0144966 L16.0003481,18.3415219 L21.6724555,24.0140235 C21.9960623,24.3376258 22.4194951,24.4994269 22.8434011,24.4994269 C23.2668339,24.4994269 23.6907398,24.3376258 24.0138735,24.0140235 C24.6606139,23.3677652 24.6606139,22.3188965 24.0138735,21.6726382 L18.341766,16.0001366 Z" id="path-1"></path>
+    </defs>
+    <g id="5.0" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Revised-1200-solid-color-concepts" transform="translate(-1235.000000, -484.000000)">
+            <g id="Solid-Ad" transform="translate(114.000000, 463.000000)">
+                <g id="Icon/Close" transform="translate(1114.000000, 14.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Fill-1" fill="#545454" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <g id="Icon/*Color/Dark" mask="url(#mask-2)" fill="#333333" fill-rule="evenodd">
+                        <rect id="Rectangle" x="0" y="0" width="32" height="32"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
